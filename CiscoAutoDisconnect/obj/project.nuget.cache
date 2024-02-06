@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpIp21hwJ4K5Qlk54yumfN6ASCytO4hfh3PRzT6v5PnFGO7qKyxj1yv3b1Cxlcm8hueHE28K+JqxT4t1HAYq9w==",
+  "success": true,
+  "projectFilePath": "M:\\Repository\\CiscoAutoDisconnect\\CiscoAutoDisconnect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aldub\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\aldub\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

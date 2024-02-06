@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<add key="path" value="C:\Program Files (x86)\Cisco\Cisco AnyConnect Secure Mobility Client\" /> <!-- Путь до циско -->
+		<add key="host" value="" /> <!-- Хост -->
+		<add key="user" value="" /> <!-- Логин -->
+		<add key="pass" value="" /> <!-- Пароль -->
+		<add key="secretKey" value="" /> <!-- Секретный код для генерации одноразового пароля для 2fa -->
+	</appSettings>
+</configuration>
